@@ -7,5 +7,6 @@ public class Main {
         new User();
         logger.info("Сообщение!");
         logger.fatal("Фатальная ошибка!");
+        logger.error("Ошибка!");
     }
 }
