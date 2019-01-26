@@ -7,5 +7,6 @@ public class User {
         logger.debug("Debug сообщение!");
         logger.error("Ошибка!");
         logger.trace("Трейс!");
+        logger.info("Информация");
     }
 }
