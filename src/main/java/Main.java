@@ -6,5 +6,6 @@ public class Main {
     public static void main(String[] args) {
         new User();
         logger.info("Сообщение!");
+        logger.fatal("Фатальная ошибка!");
     }
 }
