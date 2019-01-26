@@ -8,6 +8,7 @@ public class Main {
         logger.info("Сообщение!");
         logger.fatal("Фатальная ошибка!");
         logger.error("Ошибка!");
+        logger.warn("Ds");
         logger.warn("Предупреждение!");
     }
 }
