@@ -1,2 +1,2 @@
-# Logger to JSon
+# Logger to XML
 GeekTech
